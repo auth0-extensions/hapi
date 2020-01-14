@@ -1,3 +1,5 @@
+## This is a fork of hapi to support samesite changes in legacy modules.  
+
 <img src="https://raw.github.com/hapijs/hapi/master/images/hapi.png" />
 
 ### Web and services application framework
