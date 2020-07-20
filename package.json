@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@auth0/statehood": "^4.1.1",
+    "@hapi/shot": "^5.0.0",
     "accept": "2.x.x",
     "ammo": "2.x.x",
     "boom": "3.x.x",
